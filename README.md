@@ -2,7 +2,7 @@
 An open-source reimplementation of AI Generated Sponge.
 
 ## Are you a python and/or unity developer?
-I'm actively looking for others to contribute to the opensponge project, python for the backend and unity for the frontend. If you are interested in contributing please contact me on discord @ Expl0dingCat#0001.
+I'm actively looking for others to contribute to the opensponge project, python for the backend and unity for the frontend. If you are interested in contributing please contact me on discord (see my github profile).
 
 Project is on hold. 
 
